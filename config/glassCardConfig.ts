@@ -32,7 +32,7 @@ export const GLASS_CARD_DEFAULTS: GlassCardConfig = {
   darken: 0.2,
 
   edgeWidth: 1,
-  edgeIntensity: 0.4,
+  edgeIntensity: 0.16,
   edgeAngle: 208,
   edgeSpread: 25,
   edgeBase: 0
